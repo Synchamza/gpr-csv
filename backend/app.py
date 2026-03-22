@@ -48,6 +48,11 @@ def process():
 
     try:
         gpr_content = gpr_file.read().decode('utf-8', errors='replace')
+        from calculator import parse_gpr
+        spots = parse_gpr(gpr_content)
+        pad_keys = [k for k in spots if k[0] == pad]
+        if not pad_keys:
+            return jsonify({'error': f'Pad {pad} not found in this GPR file'}), 400
         csv_output = generate_csv(gpr_content, pad, test_ref, slide_ref, kit_lot, slide_lot)
     except Exception as e:
         traceback.print_exc()
