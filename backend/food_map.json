@@ -1,0 +1,1778 @@
+[
+  {
+    "name": "Agar Agar",
+    "group": "MISCELLANEOUS",
+    "gpr_col": 11,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.6
+  },
+  {
+    "name": "Alga Espaguette",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 12,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.5
+  },
+  {
+    "name": "Alga Spirulina",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 13,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.4
+  },
+  {
+    "name": "Alga Wakame",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 14,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.55
+  },
+  {
+    "name": "Almond",
+    "group": "NUTS / SEEDS",
+    "gpr_col": 5,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.7
+  },
+  {
+    "name": "Aloe Vera",
+    "group": "MISCELLANEOUS",
+    "gpr_col": 1,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 0.3
+  },
+  {
+    "name": "Alpha-Lactalbumin",
+    "group": "DAIRY / EGG",
+    "gpr_col": 14,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.35
+  },
+  {
+    "name": "Amaranth",
+    "group": "GRAINS (Gluten-Free)",
+    "gpr_col": 15,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.5
+  },
+  {
+    "name": "Anchovy",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 15,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.25
+  },
+  {
+    "name": "Aniseed",
+    "group": "HERBS / SPICES",
+    "gpr_col": 2,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 0.5
+  },
+  {
+    "name": "Apple",
+    "group": "FRUIT",
+    "gpr_col": 21,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 0.2
+  },
+  {
+    "name": "Apricot",
+    "group": "FRUIT",
+    "gpr_col": 22,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 0.45
+  },
+  {
+    "name": "Artichoke",
+    "group": "VEGETABLES",
+    "gpr_col": 8,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 1.0
+  },
+  {
+    "name": "Asparagus",
+    "group": "VEGETABLES",
+    "gpr_col": 22,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 1.0
+  },
+  {
+    "name": "Aubergine",
+    "group": "VEGETABLES",
+    "gpr_col": 9,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 0.4
+  },
+  {
+    "name": "Avocado",
+    "group": "FRUIT",
+    "gpr_col": 19,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.25
+  },
+  {
+    "name": "Banana",
+    "group": "FRUIT",
+    "gpr_col": 1,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 1.0
+  },
+  {
+    "name": "Barley",
+    "group": "GRAINS (Gluten-Containing)*",
+    "gpr_col": 16,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.6
+  },
+  {
+    "name": "Barnacle",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 16,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.2
+  },
+  {
+    "name": "Basil",
+    "group": "HERBS / SPICES",
+    "gpr_col": 3,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 0.3
+  },
+  {
+    "name": "Bass",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 17,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.15
+  },
+  {
+    "name": "Bayleaf",
+    "group": "HERBS / SPICES",
+    "gpr_col": 4,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 0.5
+  },
+  {
+    "name": "Bean (Broad)",
+    "group": "VEGETABLES",
+    "gpr_col": 4,
+    "gpr_row1": 21,
+    "gpr_row2": 22,
+    "cf": 0.35
+  },
+  {
+    "name": "Bean (Green)",
+    "group": "VEGETABLES",
+    "gpr_col": 5,
+    "gpr_row1": 21,
+    "gpr_row2": 22,
+    "cf": 0.2
+  },
+  {
+    "name": "Bean (Red Kidney)",
+    "group": "VEGETABLES",
+    "gpr_col": 7,
+    "gpr_row1": 21,
+    "gpr_row2": 22,
+    "cf": 0.65
+  },
+  {
+    "name": "Bean (White Haricot)",
+    "group": "VEGETABLES",
+    "gpr_col": 6,
+    "gpr_row1": 21,
+    "gpr_row2": 22,
+    "cf": 0.5
+  },
+  {
+    "name": "Beef",
+    "group": "MEAT",
+    "gpr_col": 19,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 0.95
+  },
+  {
+    "name": "Beetroot",
+    "group": "VEGETABLES",
+    "gpr_col": 8,
+    "gpr_row1": 21,
+    "gpr_row2": 22,
+    "cf": 0.3
+  },
+  {
+    "name": "Beta-Lactoglobulin",
+    "group": "DAIRY / EGG",
+    "gpr_col": 15,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.2
+  },
+  {
+    "name": "Blackberry",
+    "group": "FRUIT",
+    "gpr_col": 2,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 1.0
+  },
+  {
+    "name": "Blackcurrant",
+    "group": "FRUIT",
+    "gpr_col": 3,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 0.75
+  },
+  {
+    "name": "Blueberry",
+    "group": "FRUIT",
+    "gpr_col": 4,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 1.0
+  },
+  {
+    "name": "Brazil Nut",
+    "group": "NUTS / SEEDS",
+    "gpr_col": 6,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.55
+  },
+  {
+    "name": "Broccoli",
+    "group": "VEGETABLES",
+    "gpr_col": 9,
+    "gpr_row1": 21,
+    "gpr_row2": 22,
+    "cf": 0.65
+  },
+  {
+    "name": "Brussel Sprout",
+    "group": "VEGETABLES",
+    "gpr_col": 20,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 0.2
+  },
+  {
+    "name": "Buckwheat",
+    "group": "GRAINS (Gluten-Free)",
+    "gpr_col": 17,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.35
+  },
+  {
+    "name": "Cabbage (Red)",
+    "group": "VEGETABLES",
+    "gpr_col": 17,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 1.0
+  },
+  {
+    "name": "Cabbage (Savoy/White)",
+    "group": "VEGETABLES",
+    "gpr_col": 10,
+    "gpr_row1": 21,
+    "gpr_row2": 22,
+    "cf": 0.45
+  },
+  {
+    "name": "Camomile",
+    "group": "HERBS / SPICES",
+    "gpr_col": 5,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 1.0
+  },
+  {
+    "name": "Cane Sugar",
+    "group": "MISCELLANEOUS",
+    "gpr_col": 18,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.5
+  },
+  {
+    "name": "Caper",
+    "group": "VEGETABLES",
+    "gpr_col": 6,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 0.3
+  },
+  {
+    "name": "Carob",
+    "group": "MISCELLANEOUS",
+    "gpr_col": 5,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 0.8
+  },
+  {
+    "name": "Carp",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 18,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.5
+  },
+  {
+    "name": "Carrot",
+    "group": "VEGETABLES",
+    "gpr_col": 11,
+    "gpr_row1": 21,
+    "gpr_row2": 22,
+    "cf": 0.9
+  },
+  {
+    "name": "Casein",
+    "group": "DAIRY / EGG",
+    "gpr_col": 17,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.65
+  },
+  {
+    "name": "Cashew Nut",
+    "group": "NUTS / SEEDS",
+    "gpr_col": 7,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.6
+  },
+  {
+    "name": "Cauliflower",
+    "group": "VEGETABLES",
+    "gpr_col": 12,
+    "gpr_row1": 21,
+    "gpr_row2": 22,
+    "cf": 1.0
+  },
+  {
+    "name": "Caviar",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 1,
+    "gpr_row1": 11,
+    "gpr_row2": 12,
+    "cf": 0.5
+  },
+  {
+    "name": "Cayenne",
+    "group": "HERBS / SPICES",
+    "gpr_col": 13,
+    "gpr_row1": 21,
+    "gpr_row2": 22,
+    "cf": 0.6
+  },
+  {
+    "name": "Celery",
+    "group": "VEGETABLES",
+    "gpr_col": 14,
+    "gpr_row1": 21,
+    "gpr_row2": 22,
+    "cf": 0.4
+  },
+  {
+    "name": "Chard",
+    "group": "VEGETABLES",
+    "gpr_col": 15,
+    "gpr_row1": 21,
+    "gpr_row2": 22,
+    "cf": 0.35
+  },
+  {
+    "name": "Cherry",
+    "group": "FRUIT",
+    "gpr_col": 6,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 0.25
+  },
+  {
+    "name": "Chestnut",
+    "group": "MISCELLANEOUS",
+    "gpr_col": 8,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.4
+  },
+  {
+    "name": "Chicken",
+    "group": "MEAT",
+    "gpr_col": 17,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 1.0
+  },
+  {
+    "name": "Chickpea",
+    "group": "VEGETABLES",
+    "gpr_col": 16,
+    "gpr_row1": 21,
+    "gpr_row2": 22,
+    "cf": 0.25
+  },
+  {
+    "name": "Chicory",
+    "group": "VEGETABLES",
+    "gpr_col": 17,
+    "gpr_row1": 21,
+    "gpr_row2": 22,
+    "cf": 0.5
+  },
+  {
+    "name": "Chilli (Red)",
+    "group": "HERBS / SPICES",
+    "gpr_col": 5,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 0.35
+  },
+  {
+    "name": "Cinnamon",
+    "group": "HERBS / SPICES",
+    "gpr_col": 7,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 0.55
+  },
+  {
+    "name": "Clam",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 2,
+    "gpr_row1": 11,
+    "gpr_row2": 12,
+    "cf": 0.35
+  },
+  {
+    "name": "Clove",
+    "group": "HERBS / SPICES",
+    "gpr_col": 8,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 1.0
+  },
+  {
+    "name": "Cockle",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 3,
+    "gpr_row1": 11,
+    "gpr_row2": 12,
+    "cf": 1.0
+  },
+  {
+    "name": "Cocoa Bean",
+    "group": "MISCELLANEOUS",
+    "gpr_col": 11,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.6
+  },
+  {
+    "name": "Coconut",
+    "group": "NUTS / SEEDS",
+    "gpr_col": 7,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 0.5
+  },
+  {
+    "name": "Cod",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 4,
+    "gpr_row1": 11,
+    "gpr_row2": 12,
+    "cf": 0.4
+  },
+  {
+    "name": "Coffee",
+    "group": "MISCELLANEOUS",
+    "gpr_col": 9,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 1.0
+  },
+  {
+    "name": "Cola Nut",
+    "group": "MISCELLANEOUS",
+    "gpr_col": 10,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 0.75
+  },
+  {
+    "name": "Coriander (Leaf)",
+    "group": "HERBS / SPICES",
+    "gpr_col": 11,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 0.7
+  },
+  {
+    "name": "Corn (Maize)",
+    "group": "GRAINS (Gluten-Free)",
+    "gpr_col": 19,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.6
+  },
+  {
+    "name": "Couscous",
+    "group": "GRAINS (Gluten-Containing)*",
+    "gpr_col": 20,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.6
+  },
+  {
+    "name": "Crab",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 5,
+    "gpr_row1": 11,
+    "gpr_row2": 12,
+    "cf": 1.0
+  },
+  {
+    "name": "Cranberry",
+    "group": "FRUIT",
+    "gpr_col": 14,
+    "gpr_row1": 11,
+    "gpr_row2": 12,
+    "cf": 0.8
+  },
+  {
+    "name": "Cucumber",
+    "group": "VEGETABLES",
+    "gpr_col": 18,
+    "gpr_row1": 21,
+    "gpr_row2": 22,
+    "cf": 0.15
+  },
+  {
+    "name": "Cumin",
+    "group": "HERBS / SPICES",
+    "gpr_col": 12,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 0.5
+  },
+  {
+    "name": "Curry (Mixed Spices)",
+    "group": "HERBS / SPICES",
+    "gpr_col": 13,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 0.45
+  },
+  {
+    "name": "Cuttlefish",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 6,
+    "gpr_row1": 11,
+    "gpr_row2": 12,
+    "cf": 0.45
+  },
+  {
+    "name": "Date",
+    "group": "FRUIT",
+    "gpr_col": 8,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 1.0
+  },
+  {
+    "name": "Dill",
+    "group": "HERBS / SPICES",
+    "gpr_col": 19,
+    "gpr_row1": 21,
+    "gpr_row2": 22,
+    "cf": 0.5
+  },
+  {
+    "name": "Duck",
+    "group": "MEAT",
+    "gpr_col": 14,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 1.0
+  },
+  {
+    "name": "Durum Wheat",
+    "group": "GRAINS (Gluten-Containing)*",
+    "gpr_col": 21,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.45
+  },
+  {
+    "name": "Eel",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 8,
+    "gpr_row1": 11,
+    "gpr_row2": 12,
+    "cf": 1.0
+  },
+  {
+    "name": "Egg White",
+    "group": "DAIRY / EGG",
+    "gpr_col": 19,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.5
+  },
+  {
+    "name": "Egg Yolk",
+    "group": "DAIRY / EGG",
+    "gpr_col": 20,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.55
+  },
+  {
+    "name": "Fennel (Leaf)",
+    "group": "VEGETABLES",
+    "gpr_col": 20,
+    "gpr_row1": 21,
+    "gpr_row2": 22,
+    "cf": 0.4
+  },
+  {
+    "name": "Fig",
+    "group": "FRUIT",
+    "gpr_col": 9,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 0.35
+  },
+  {
+    "name": "Flax Seed",
+    "group": "NUTS / SEEDS",
+    "gpr_col": 22,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 1.0
+  },
+  {
+    "name": "Garlic",
+    "group": "HERBS / SPICES",
+    "gpr_col": 2,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 0.45
+  },
+  {
+    "name": "Ginger",
+    "group": "HERBS / SPICES",
+    "gpr_col": 14,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 0.5
+  },
+  {
+    "name": "Ginkgo",
+    "group": "HERBS / SPICES",
+    "gpr_col": 3,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 0.5
+  },
+  {
+    "name": "Ginseng",
+    "group": "HERBS / SPICES",
+    "gpr_col": 4,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 0.45
+  },
+  {
+    "name": "Gliadin*",
+    "group": "GRAINS (Gluten-Containing)*",
+    "gpr_col": 20,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 0.9
+  },
+  {
+    "name": "Goat",
+    "group": "MEAT",
+    "gpr_col": 8,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 1.0
+  },
+  {
+    "name": "Grape (Black/Red/White)",
+    "group": "FRUIT",
+    "gpr_col": 10,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 0.3
+  },
+  {
+    "name": "Grapefruit",
+    "group": "FRUIT",
+    "gpr_col": 11,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 0.2
+  },
+  {
+    "name": "Guava",
+    "group": "FRUIT",
+    "gpr_col": 12,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 0.25
+  },
+  {
+    "name": "Haddock",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 16,
+    "gpr_row1": 11,
+    "gpr_row2": 12,
+    "cf": 0.45
+  },
+  {
+    "name": "Hake",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 18,
+    "gpr_row1": 11,
+    "gpr_row2": 12,
+    "cf": 1.0
+  },
+  {
+    "name": "Hazelnut",
+    "group": "NUTS / SEEDS",
+    "gpr_col": 9,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.65
+  },
+  {
+    "name": "Herring",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 19,
+    "gpr_row1": 11,
+    "gpr_row2": 12,
+    "cf": 0.5
+  },
+  {
+    "name": "Honey",
+    "group": "MISCELLANEOUS",
+    "gpr_col": 15,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 0.3
+  },
+  {
+    "name": "Hops",
+    "group": "HERBS / SPICES",
+    "gpr_col": 15,
+    "gpr_row1": 11,
+    "gpr_row2": 12,
+    "cf": 0.4
+  },
+  {
+    "name": "Horse",
+    "group": "MEAT",
+    "gpr_col": 7,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 0.2
+  },
+  {
+    "name": "Kiwi",
+    "group": "FRUIT",
+    "gpr_col": 13,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 0.65
+  },
+  {
+    "name": "Lamb",
+    "group": "MEAT",
+    "gpr_col": 12,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 0.35
+  },
+  {
+    "name": "Leek",
+    "group": "VEGETABLES",
+    "gpr_col": 6,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 0.45
+  },
+  {
+    "name": "Lemon",
+    "group": "FRUIT",
+    "gpr_col": 14,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 0.35
+  },
+  {
+    "name": "Lentil",
+    "group": "VEGETABLES",
+    "gpr_col": 7,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 0.4
+  },
+  {
+    "name": "Lettuce",
+    "group": "VEGETABLES",
+    "gpr_col": 8,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 1.0
+  },
+  {
+    "name": "Lime",
+    "group": "FRUIT",
+    "gpr_col": 15,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 0.4
+  },
+  {
+    "name": "Liquorice",
+    "group": "HERBS / SPICES",
+    "gpr_col": 16,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 0.8
+  },
+  {
+    "name": "Lobster",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 20,
+    "gpr_row1": 11,
+    "gpr_row2": 12,
+    "cf": 0.25
+  },
+  {
+    "name": "Lychee",
+    "group": "FRUIT",
+    "gpr_col": 16,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 0.2
+  },
+  {
+    "name": "Macadamia Nut",
+    "group": "NUTS / SEEDS",
+    "gpr_col": 10,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.4
+  },
+  {
+    "name": "Mackerel",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 21,
+    "gpr_row1": 11,
+    "gpr_row2": 12,
+    "cf": 0.65
+  },
+  {
+    "name": "Malt",
+    "group": "GRAINS (Gluten-Containing)*",
+    "gpr_col": 1,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.4
+  },
+  {
+    "name": "Mango",
+    "group": "FRUIT",
+    "gpr_col": 17,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 0.3
+  },
+  {
+    "name": "Marjoram",
+    "group": "HERBS / SPICES",
+    "gpr_col": 17,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 1.0
+  },
+  {
+    "name": "Marrow",
+    "group": "VEGETABLES",
+    "gpr_col": 9,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 0.35
+  },
+  {
+    "name": "Melon (Galia/Honeydew)",
+    "group": "FRUIT",
+    "gpr_col": 18,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 1.0
+  },
+  {
+    "name": "Milk (Buffalo)",
+    "group": "DAIRY / EGG",
+    "gpr_col": 16,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 1.0
+  },
+  {
+    "name": "Milk (Cow)",
+    "group": "DAIRY / EGG",
+    "gpr_col": 18,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.65
+  },
+  {
+    "name": "Milk (Goat)",
+    "group": "DAIRY / EGG",
+    "gpr_col": 21,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.45
+  },
+  {
+    "name": "Milk (Sheep)",
+    "group": "DAIRY / EGG",
+    "gpr_col": 22,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.6
+  },
+  {
+    "name": "Millet",
+    "group": "GRAINS (Gluten-Free)",
+    "gpr_col": 2,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.3
+  },
+  {
+    "name": "Mint",
+    "group": "HERBS / SPICES",
+    "gpr_col": 18,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 0.4
+  },
+  {
+    "name": "Monkfish",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 22,
+    "gpr_row1": 11,
+    "gpr_row2": 12,
+    "cf": 0.5
+  },
+  {
+    "name": "Mulberry",
+    "group": "FRUIT",
+    "gpr_col": 19,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 1.0
+  },
+  {
+    "name": "Mushroom",
+    "group": "MISCELLANEOUS",
+    "gpr_col": 10,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 0.8
+  },
+  {
+    "name": "Mussel",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 1,
+    "gpr_row1": 9,
+    "gpr_row2": 10,
+    "cf": 0.6
+  },
+  {
+    "name": "Mustard Seed",
+    "group": "HERBS / SPICES",
+    "gpr_col": 19,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 0.5
+  },
+  {
+    "name": "Nectarine",
+    "group": "FRUIT",
+    "gpr_col": 20,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 0.3
+  },
+  {
+    "name": "Nettle",
+    "group": "HERBS / SPICES",
+    "gpr_col": 20,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 1.0
+  },
+  {
+    "name": "Nutmeg",
+    "group": "HERBS / SPICES",
+    "gpr_col": 21,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 0.4
+  },
+  {
+    "name": "Oat",
+    "group": "GRAINS (Gluten-Containing)*",
+    "gpr_col": 3,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.9
+  },
+  {
+    "name": "Octopus",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 2,
+    "gpr_row1": 9,
+    "gpr_row2": 10,
+    "cf": 0.3
+  },
+  {
+    "name": "Olive",
+    "group": "FRUIT",
+    "gpr_col": 21,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 0.35
+  },
+  {
+    "name": "Onion",
+    "group": "VEGETABLES",
+    "gpr_col": 11,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 0.35
+  },
+  {
+    "name": "Orange",
+    "group": "FRUIT",
+    "gpr_col": 22,
+    "gpr_row1": 15,
+    "gpr_row2": 16,
+    "cf": 0.55
+  },
+  {
+    "name": "Ostrich",
+    "group": "MEAT",
+    "gpr_col": 5,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 0.95
+  },
+  {
+    "name": "Ox",
+    "group": "MEAT",
+    "gpr_col": 6,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 0.55
+  },
+  {
+    "name": "Oyster",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 3,
+    "gpr_row1": 9,
+    "gpr_row2": 10,
+    "cf": 0.4
+  },
+  {
+    "name": "Papaya",
+    "group": "FRUIT",
+    "gpr_col": 1,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 1.0
+  },
+  {
+    "name": "Parsley",
+    "group": "HERBS / SPICES",
+    "gpr_col": 12,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 1.0
+  },
+  {
+    "name": "Partridge",
+    "group": "MEAT",
+    "gpr_col": 16,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 1.0
+  },
+  {
+    "name": "Pea",
+    "group": "VEGETABLES",
+    "gpr_col": 13,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 0.5
+  },
+  {
+    "name": "Peach",
+    "group": "FRUIT",
+    "gpr_col": 2,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.4
+  },
+  {
+    "name": "Peanut",
+    "group": "NUTS / SEEDS",
+    "gpr_col": 11,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.5
+  },
+  {
+    "name": "Pear",
+    "group": "FRUIT",
+    "gpr_col": 3,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.35
+  },
+  {
+    "name": "Pepper (Green/Red/Yellow)",
+    "group": "VEGETABLES",
+    "gpr_col": 10,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 0.6
+  },
+  {
+    "name": "Peppercorn (Black/White)",
+    "group": "HERBS / SPICES",
+    "gpr_col": 7,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 0.5
+  },
+  {
+    "name": "Peppermint",
+    "group": "HERBS / SPICES",
+    "gpr_col": 22,
+    "gpr_row1": 3,
+    "gpr_row2": 4,
+    "cf": 0.55
+  },
+  {
+    "name": "Perch",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 4,
+    "gpr_row1": 9,
+    "gpr_row2": 10,
+    "cf": 0.5
+  },
+  {
+    "name": "Pike",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 5,
+    "gpr_row1": 9,
+    "gpr_row2": 10,
+    "cf": 0.55
+  },
+  {
+    "name": "Pine Nut",
+    "group": "NUTS / SEEDS",
+    "gpr_col": 12,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.45
+  },
+  {
+    "name": "Pineapple",
+    "group": "FRUIT",
+    "gpr_col": 4,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.7
+  },
+  {
+    "name": "Pistachio",
+    "group": "NUTS / SEEDS",
+    "gpr_col": 13,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.55
+  },
+  {
+    "name": "Plaice",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 6,
+    "gpr_row1": 9,
+    "gpr_row2": 10,
+    "cf": 0.55
+  },
+  {
+    "name": "Plum",
+    "group": "FRUIT",
+    "gpr_col": 5,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 1.0
+  },
+  {
+    "name": "Polenta",
+    "group": "GRAINS (Gluten-Free)",
+    "gpr_col": 1,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 0.35
+  },
+  {
+    "name": "Pomegranate",
+    "group": "FRUIT",
+    "gpr_col": 6,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.45
+  },
+  {
+    "name": "Pork",
+    "group": "MEAT",
+    "gpr_col": 9,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 0.35
+  },
+  {
+    "name": "Potato",
+    "group": "VEGETABLES",
+    "gpr_col": 14,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 0.8
+  },
+  {
+    "name": "Quail",
+    "group": "MEAT",
+    "gpr_col": 10,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 0.25
+  },
+  {
+    "name": "Quinoa",
+    "group": "GRAINS (Gluten-Free)",
+    "gpr_col": 4,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.45
+  },
+  {
+    "name": "Rabbit",
+    "group": "MEAT",
+    "gpr_col": 11,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 0.15
+  },
+  {
+    "name": "Radish",
+    "group": "VEGETABLES",
+    "gpr_col": 16,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 0.65
+  },
+  {
+    "name": "Raisin",
+    "group": "FRUIT",
+    "gpr_col": 14,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.25
+  },
+  {
+    "name": "Rapeseed",
+    "group": "NUTS / SEEDS",
+    "gpr_col": 2,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 0.3
+  },
+  {
+    "name": "Raspberry",
+    "group": "FRUIT",
+    "gpr_col": 7,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.25
+  },
+  {
+    "name": "Razor Clam",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 7,
+    "gpr_row1": 9,
+    "gpr_row2": 10,
+    "cf": 0.55
+  },
+  {
+    "name": "Redcurrant",
+    "group": "FRUIT",
+    "gpr_col": 8,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.3
+  },
+  {
+    "name": "Rhubarb",
+    "group": "FRUIT",
+    "gpr_col": 3,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 0.35
+  },
+  {
+    "name": "Rice",
+    "group": "GRAINS (Gluten-Free)",
+    "gpr_col": 5,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.9
+  },
+  {
+    "name": "Rocket",
+    "group": "VEGETABLES",
+    "gpr_col": 18,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 1.0
+  },
+  {
+    "name": "Rosemary",
+    "group": "HERBS / SPICES",
+    "gpr_col": 4,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 0.55
+  },
+  {
+    "name": "Rye",
+    "group": "GRAINS (Gluten-Containing)*",
+    "gpr_col": 6,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 1.0
+  },
+  {
+    "name": "Saffron",
+    "group": "HERBS / SPICES",
+    "gpr_col": 5,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 0.3
+  },
+  {
+    "name": "Sage",
+    "group": "HERBS / SPICES",
+    "gpr_col": 6,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 0.75
+  },
+  {
+    "name": "Salmon",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 8,
+    "gpr_row1": 9,
+    "gpr_row2": 10,
+    "cf": 0.8
+  },
+  {
+    "name": "Sardine",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 18,
+    "gpr_row1": 9,
+    "gpr_row2": 10,
+    "cf": 0.95
+  },
+  {
+    "name": "Scallop",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 17,
+    "gpr_row1": 11,
+    "gpr_row2": 12,
+    "cf": 0.3
+  },
+  {
+    "name": "Sea Bream (Gilthead)",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 7,
+    "gpr_row1": 11,
+    "gpr_row2": 12,
+    "cf": 0.8
+  },
+  {
+    "name": "Sea Bream (Red)",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 17,
+    "gpr_row1": 9,
+    "gpr_row2": 10,
+    "cf": 0.4
+  },
+  {
+    "name": "Sesame Seed",
+    "group": "NUTS / SEEDS",
+    "gpr_col": 7,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 1.0
+  },
+  {
+    "name": "Shallot",
+    "group": "VEGETABLES",
+    "gpr_col": 3,
+    "gpr_row1": 21,
+    "gpr_row2": 22,
+    "cf": 0.15
+  },
+  {
+    "name": "Shrimp/Prawn",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 19,
+    "gpr_row1": 9,
+    "gpr_row2": 10,
+    "cf": 0.35
+  },
+  {
+    "name": "Sole",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 20,
+    "gpr_row1": 9,
+    "gpr_row2": 10,
+    "cf": 0.45
+  },
+  {
+    "name": "Soya Bean",
+    "group": "VEGETABLES",
+    "gpr_col": 10,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.85
+  },
+  {
+    "name": "Spelt",
+    "group": "GRAINS (Gluten-Containing)*",
+    "gpr_col": 8,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.6
+  },
+  {
+    "name": "Spinach",
+    "group": "VEGETABLES",
+    "gpr_col": 19,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 0.45
+  },
+  {
+    "name": "Squash (Butternut/Carnival)",
+    "group": "VEGETABLES",
+    "gpr_col": 15,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 0.25
+  },
+  {
+    "name": "Squid",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 21,
+    "gpr_row1": 9,
+    "gpr_row2": 10,
+    "cf": 0.3
+  },
+  {
+    "name": "Strawberry",
+    "group": "FRUIT",
+    "gpr_col": 9,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.35
+  },
+  {
+    "name": "Sunflower Seed",
+    "group": "NUTS / SEEDS",
+    "gpr_col": 9,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.45
+  },
+  {
+    "name": "Sweet Potato",
+    "group": "VEGETABLES",
+    "gpr_col": 21,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 0.85
+  },
+  {
+    "name": "Swordfish",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 22,
+    "gpr_row1": 9,
+    "gpr_row2": 10,
+    "cf": 0.45
+  },
+  {
+    "name": "Tangerine",
+    "group": "FRUIT",
+    "gpr_col": 20,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.3
+  },
+  {
+    "name": "Tapioca",
+    "group": "GRAINS (Gluten-Free)",
+    "gpr_col": 22,
+    "gpr_row1": 19,
+    "gpr_row2": 20,
+    "cf": 1.0
+  },
+  {
+    "name": "Tarragon",
+    "group": "HERBS / SPICES",
+    "gpr_col": 11,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 0.5
+  },
+  {
+    "name": "Tea (Black)",
+    "group": "MISCELLANEOUS",
+    "gpr_col": 12,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 1.0
+  },
+  {
+    "name": "Tea (Green)",
+    "group": "MISCELLANEOUS",
+    "gpr_col": 13,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 1.0
+  },
+  {
+    "name": "Thyme",
+    "group": "HERBS / SPICES",
+    "gpr_col": 14,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 0.85
+  },
+  {
+    "name": "Tiger Nut",
+    "group": "NUTS / SEEDS",
+    "gpr_col": 1,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 0.5
+  },
+  {
+    "name": "Tomato",
+    "group": "VEGETABLES",
+    "gpr_col": 2,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 0.45
+  },
+  {
+    "name": "Transglutaminase",
+    "group": "MISCELLANEOUS",
+    "gpr_col": 19,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 0.2
+  },
+  {
+    "name": "Trout",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 1,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.65
+  },
+  {
+    "name": "Tuna",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 2,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.75
+  },
+  {
+    "name": "Turbot",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 3,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.6
+  },
+  {
+    "name": "Turkey",
+    "group": "MEAT",
+    "gpr_col": 15,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 0.7
+  },
+  {
+    "name": "Turnip",
+    "group": "VEGETABLES",
+    "gpr_col": 3,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 0.25
+  },
+  {
+    "name": "Vanilla",
+    "group": "HERBS / SPICES",
+    "gpr_col": 15,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 0.8
+  },
+  {
+    "name": "Veal",
+    "group": "MEAT",
+    "gpr_col": 18,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 1.0
+  },
+  {
+    "name": "Venison",
+    "group": "MEAT",
+    "gpr_col": 20,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 0.8
+  },
+  {
+    "name": "Walnut",
+    "group": "NUTS / SEEDS",
+    "gpr_col": 21,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.45
+  },
+  {
+    "name": "Watercress",
+    "group": "VEGETABLES",
+    "gpr_col": 4,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 1.0
+  },
+  {
+    "name": "Watermelon",
+    "group": "FRUIT",
+    "gpr_col": 10,
+    "gpr_row1": 13,
+    "gpr_row2": 14,
+    "cf": 0.7
+  },
+  {
+    "name": "Wheat",
+    "group": "GRAINS (Gluten-Containing)*",
+    "gpr_col": 12,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.35
+  },
+  {
+    "name": "Wheat Bran",
+    "group": "GRAINS (Gluten-Containing)*",
+    "gpr_col": 13,
+    "gpr_row1": 5,
+    "gpr_row2": 6,
+    "cf": 0.8
+  },
+  {
+    "name": "Wild Boar",
+    "group": "MEAT",
+    "gpr_col": 13,
+    "gpr_row1": 17,
+    "gpr_row2": 18,
+    "cf": 1.0
+  },
+  {
+    "name": "Winkle",
+    "group": "FISH / SEAFOOD",
+    "gpr_col": 4,
+    "gpr_row1": 7,
+    "gpr_row2": 8,
+    "cf": 0.45
+  },
+  {
+    "name": "Yeast (Baker's)",
+    "group": "MISCELLANEOUS",
+    "gpr_col": 16,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 0.4
+  },
+  {
+    "name": "Yeast (Brewer's)",
+    "group": "MISCELLANEOUS",
+    "gpr_col": 17,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 0.45
+  },
+  {
+    "name": "Yuca",
+    "group": "VEGETABLES",
+    "gpr_col": 18,
+    "gpr_row1": 1,
+    "gpr_row2": 2,
+    "cf": 0.4
+  }
+]

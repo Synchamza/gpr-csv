@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GutMapDx Food Sensitivity Analyser</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <div class="logo-icon"><img src="gutmapdx.png" alt="FoodPrint Logo"></div>
+                <div>
+                    <h1>GutMapDx Food Sensitivity Analyser</h1>
+                    <p class="tagline">GPR File Processing Tool</p>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <div class="card upload-card">
+                <h2>Upload GPR File</h2>
+
+                <div class="drop-zone" id="dropZone">
+                    <div class="drop-icon">&#8679;</div>
+                    <p class="drop-text">Drag &amp; drop your .gpr file here</p>
+                    <p class="drop-sub">or</p>
+                    <label class="btn btn-outline" for="fileInput">Browse File</label>
+                    <input type="file" id="fileInput" accept=".gpr,.txt" hidden>
+                    <p class="file-name" id="fileName">No file selected</p>
+                </div>
+
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label for="padSelect">Pad Number</label>
+                        <select id="padSelect">
+                            <option value="">Select pad...</option>
+                            <script>for(let i=1;i<=16;i++) document.write(`<option value="${i}">${i}</option>`)</script>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="testRef">Test Reference</label>
+                        <input type="text" id="testRef" placeholder="e.g. PAT-2024-001">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="slideRef">Slide Reference</label>
+                        <input type="text" id="slideRef" placeholder="Optional">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="kitLot">Kit Lot</label>
+                        <input type="text" id="kitLot" placeholder="Optional">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="slideLot">Slide Lot</label>
+                        <input type="text" id="slideLot" placeholder="Optional">
+                    </div>
+                </div>
+
+                <div id="errorMsg" class="error-msg hidden"></div>
+
+                <button class="btn btn-primary" id="processBtn" disabled>
+                    <span class="btn-text">Process &amp; Download CSV</span>
+                    <span class="spinner hidden" id="spinner"></span>
+                </button>
+            </div>
+
+            <div class="card info-card">
+                <h3>How to use</h3>
+                <ol>
+                    <li>Upload a <strong>.gpr</strong> file exported from GenePix Pro</li>
+                    <li>Select the <strong>pad number</strong> (sample position 1-16)</li>
+                    <li>Enter an optional <strong>test reference</strong> for the patient</li>
+                    <li>Click <strong>Process</strong> to download the result CSV</li>
+                </ol>
+                <div class="note">
+                    <strong>Note:</strong> A single GPR file can contain up to 16 pads (samples). Process each pad separately to get individual reports.
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
