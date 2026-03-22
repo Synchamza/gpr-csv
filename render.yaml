@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: gutmapdx-foodprint
+    runtime: python
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: gunicorn --chdir backend app:app
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0

@@ -1,4 +1,4 @@
-const BACKEND_URL = 'http://localhost:5000';
+const BACKEND_URL = '';
 
 const dropZone = document.getElementById('dropZone');
 const fileInput = document.getElementById('fileInput');

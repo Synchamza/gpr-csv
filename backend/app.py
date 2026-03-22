@@ -1,14 +1,22 @@
 """
 FoodPrint Web Backend - Flask API
 """
-from flask import Flask, request, jsonify, send_file
+import os
+from flask import Flask, request, jsonify, send_file, send_from_directory
 from flask_cors import CORS
 import io
 import traceback
 from calculator import generate_csv
 
-app = Flask(__name__)
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+
+app = Flask(__name__, static_folder=BASE_DIR, static_url_path='')
 CORS(app)
+
+
+@app.route('/')
+def index():
+    return send_from_directory(BASE_DIR, 'index.html')
 
 
 @app.route('/health', methods=['GET'])
@@ -59,4 +67,5 @@ def process():
 
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5000)
+    port = int(os.environ.get('PORT', 5000))
+    app.run(debug=False, host='0.0.0.0', port=port)
