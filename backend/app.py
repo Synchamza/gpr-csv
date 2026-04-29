@@ -2,6 +2,9 @@
 FoodPrint Web Backend - Flask API
 """
 import os
+import threading
+import time
+import urllib.request
 from flask import Flask, request, jsonify, send_file, send_from_directory
 from flask_cors import CORS
 import io
@@ -69,6 +72,25 @@ def process():
         as_attachment=True,
         download_name=filename
     )
+
+
+def _keep_alive():
+    # Render free tier sleeps after 15 min inactivity — ping every 10 min to stay awake
+    url = os.environ.get('RENDER_EXTERNAL_URL', '').rstrip('/')
+    if not url:
+        return
+    ping_url = url + '/health'
+    while True:
+        time.sleep(600)  # 10 minutes
+        try:
+            urllib.request.urlopen(ping_url, timeout=10)
+        except Exception:
+            pass
+
+
+# Start keep-alive only on Render (RENDER_EXTERNAL_URL is set by Render automatically)
+if os.environ.get('RENDER_EXTERNAL_URL'):
+    threading.Thread(target=_keep_alive, daemon=True).start()
 
 
 if __name__ == '__main__':
